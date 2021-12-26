@@ -1,0 +1,15 @@
+{
+    "name": "dts2hx_aliases",
+    "url" : "https://github.com/brave-pi/dts2hx_aliases/",
+    "license": "MIT",
+    "tags": ["dts2hx","aliases","alias","polyfill"],
+    "description": "dts2hx aliases (to fix improperly resolved JS types).",
+    "version": "1.0.0",
+    "classPath": "src/",
+    "releasenote": "Initial release.",
+    "contributors": ["piboistudios"],
+    "dependencies": {
+      "tink_core": ""
+    },
+    "main": "Test"
+  }
